@@ -1,3 +1,8 @@
+/*  Author: Bhavya Shah
+    All Copyright reserved
+    Copyright c 2018  */
+
+    /* Program of List using Template Library */
 #include<iostream>
 #include<fstream>
 #include<windows.h>
